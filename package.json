@@ -1,0 +1,20 @@
+{
+  "name": "sarth_aur_backend",
+  "version": "1.0.0",
+  "description": "backend project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "keywords": [
+    "backend",
+    "mongoose",
+    "cloudinary"
+  ],
+  "author": "sarth sheth",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
